@@ -11,49 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, University of Wisconsin-Platteville, 2019
+* M.S. in Civil and Environmental Engineering, Northwestern University, 2020
+* Ph.D in Civil and Environmental Engineering, Northwestern University, ongoing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD Student - Wells Group, Northwestern University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* REU - Hogue Group, ReNUWIT @ Colorado School of Mines
+  * Performed a water and sewer affordability study for 10 US cities
+  * Documented utility customer assistance programs
+
+
+Other experience
+======
+* Writing Tutor - UW-Platteville Writing Center
+* Student Assistant and Grader - UW-Platteville Civil and Environmental Engineering
+* Civil Engineering Intern - Lynch & Associates Engineering Consultants
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding languages
+  * R
+  * Python
+* Modeling software
+  * BioWin
+  * SUMO
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
