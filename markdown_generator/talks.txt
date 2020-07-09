@@ -1,0 +1,3 @@
+title	type	url_slug	venue	date	location	talk_url	description
+REU Poster Symposium	Poster Presentation	poster-1	Colorado School of Mines	8/2/18	"Golden, CO"		“Water and sewer affordability in 10 U.S. cities”. Poster presentation at the conclusion of the ReNUWIt REU. My project focused on water and sewer affordability in 10 US cities and customer assistance programs provided by utilities.
+ASM Microbe Poster Session	Poster Presentation	poster-2	Virtual	6/22/20	"Chicago, IL"		“Underlying microbial bioprocesses of biological nutrient removal”
