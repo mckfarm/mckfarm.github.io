@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "McKenna Farmer"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "PhD student"
-  location         : "Northwestern University"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Evanston, IL"
+  employer         : "Northwestern University"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mckennafarmer2023@u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
