@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "McKenna Farmer"
   avatar           : "profile.JPG"
-  bio              : "PhD student"
+  bio              : "PhD student, Northwestern University"
   location         : "Evanston, IL"
-  employer         : "Northwestern University"
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mckennafarmer2023@u.northwestern.edu"
@@ -99,7 +99,7 @@ author:
   github           : "mckfarm"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "mckyfarmer"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/mckenna-farmer/"
