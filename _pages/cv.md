@@ -76,6 +76,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Awards
+-----
+* Academic Excellence Award, CSWEA, 2019
+
+
 Service and leadership
 -----
-* Currently signed in to 43 different slack teams
