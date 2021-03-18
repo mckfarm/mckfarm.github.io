@@ -12,7 +12,7 @@ redirect_from:
 Education
 -----
 * B.S. in Civil Engineering, University of Wisconsin-Platteville, 2019
-* M.S. in Civil and Environmental Engineering, Northwestern University, ongoing
+* M.S. in Civil and Environmental Engineering, Northwestern University, 2020
 * Ph.D in Civil and Environmental Engineering, Northwestern University, ongoing
 
 
@@ -21,6 +21,11 @@ Research experience
 
 PhD Student - Wells Group, Northwestern University  
 Fall 2019 to present - Evanston, IL
+* Design and operate an energy recovery wastewater bioreactor
+* Analyze amplicon and metagenomic sequencing from lab-scale and full-scale reactors to predict
+metabolic function and taxonomy of wastewater microbial communities
+* Mentor undergraduate students in lab and remote work
+* Communicate results through informal and formal meetings and written publications
 
 REU - Hogue Group, ReNUWIT @ Colorado School of Mines  
 Summer 2019 - Golden, CO
@@ -83,3 +88,5 @@ Awards
 
 Service and leadership
 -----
+* Graduate student mentor, Evanston Township High School Women in STEM club, Evanston IL
+* NU + Beye Pen Pals, Oak Park Elementary School District, Oak Park IL
