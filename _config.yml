@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "McKenna Farmer"
 title_separator          : "-"
 name                     : &name "McKenna Farmer"
-description              : &description "PhD student in the Wells Lab"
+description              : &description "PhD candidate in the Wells Lab"
 url                      : https://mckfarm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mckfarm/mckfarm.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "McKenna Farmer"
   avatar           : "profile.JPG"
-  bio              : "PhD student, Northwestern University"
+  bio              : "PhD candidate, Northwestern University"
   location         : "Evanston, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "mckennafarmer2023@u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "@mckenna_farmer"
   vine             :
   weibo            :
   xing             :
